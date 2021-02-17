@@ -458,6 +458,12 @@ header {
   -webkit-text-stroke: 1px black;
 }
 
+.scrollable-menu {
+  height: auto;
+  max-height: 475px;
+  overflow-x: hidden;
+}
+
 .Modern-Slider .item .image {
   animation: zoomin 12s ease-in-out infinite alternate;
   -webkit-animation: zoomin 12s ease-in-out infinite alternate;
